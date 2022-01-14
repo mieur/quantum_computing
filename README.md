@@ -1,3 +1,3 @@
 # Quantum Computing
 
-Repository of Qiskit codes for quantum computing
+Repository of codes, articles, and ebook for quantum computing
