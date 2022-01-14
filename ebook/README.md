@@ -1,4 +1,5 @@
 #  Quantum Computing Practical Explanation
 
-eBook "Quantum Computing Practical Explanation" in Indonesian
-[eBook](https://qubit.web.id)
+eBook entitled "Quantum Computing Practical Explanation" - in Bahasa Indonesia
+
+[https://qubit.web.id](https://qubit.web.id)
