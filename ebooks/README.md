@@ -2,4 +2,4 @@
 
 eBook entitled "Quantum Computing Practical Explanation" - in Bahasa Indonesia
 
-[https://ilmii.id/share](https://ilmii.id/share)
+[https://archive.org/details/komputasikuantum](https://archive.org/details/komputasikuantum)
